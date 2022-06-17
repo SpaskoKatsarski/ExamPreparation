@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02.TruffleHunter", "T02.Tr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03. Zoo", "T03. Zoo\T03. Zoo.csproj", "{1FC97599-3A6F-4816-AB3D-D930F80D8F31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakeryShop", "BakeryShop\BakeryShop.csproj", "{A0521759-9CA1-4534-81D9-783B43106286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BakeryShop", "BakeryShop\BakeryShop.csproj", "{A0521759-9CA1-4534-81D9-783B43106286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeaverAtWork", "BeaverAtWork\BeaverAtWork.csproj", "{421ABE3C-0192-4045-98E2-7018A4768B05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeaverAtWork", "BeaverAtWork\BeaverAtWork.csproj", "{421ABE3C-0192-4045-98E2-7018A4768B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingNet", "FishingNet\FishingNet.csproj", "{0D1AC650-F2A7-47E0-8AC5-BD72A929BB76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{421ABE3C-0192-4045-98E2-7018A4768B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421ABE3C-0192-4045-98E2-7018A4768B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421ABE3C-0192-4045-98E2-7018A4768B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1AC650-F2A7-47E0-8AC5-BD72A929BB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1AC650-F2A7-47E0-8AC5-BD72A929BB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1AC650-F2A7-47E0-8AC5-BD72A929BB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1AC650-F2A7-47E0-8AC5-BD72A929BB76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
