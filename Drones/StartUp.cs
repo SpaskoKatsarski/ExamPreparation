@@ -8,8 +8,6 @@ namespace Drones
     {
         static void Main(string[] args)
         {
-            //Try IEnumerable operations for the class Airfield (Count, foreach...)
-
             // Initialize the repository (Airfield)
             Airfield airfield = new Airfield("Heathrow", 10, 10.5);
 
