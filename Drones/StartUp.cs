@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Drones
 {
@@ -74,6 +75,15 @@ namespace Drones
             Manufactured by: DEERC
             Range: 6 kilometers
             */
+
+            Console.WriteLine("----------------------Printing all drones----------------------");
+
+            foreach (var item in airfield)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine("Count of airplanes: " + airfield.Count());
         }
     }
 }
