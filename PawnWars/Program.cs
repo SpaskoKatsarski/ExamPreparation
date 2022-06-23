@@ -7,14 +7,6 @@ namespace PawnWars
     {
         static void Main(string[] args)
         {
-            ////index 0 -> index 0 = 0 (row), index 1 = 0 (col)
-            ////index 1 -> index 1 = 0 (row), index 1 = 0 (col)
-
-            //Dictionary<int[], string> positions = new Dictionary<int[], string> 
-            //{
-            //    { new int[2] { 0, 0 }, "a8"}
-            //};
-
             char[,] chessBoard = new char[8, 8];
 
             int whiteRow = 0;
